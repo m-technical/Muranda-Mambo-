@@ -70,7 +70,10 @@ button {
   color: #1F1F1F;
   outline: medium none;
 }
-
+/* email favicon */
+.fa fa-envelope{
+  color: rgb(233,212,120);
+}
 /* line 39, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/theme-default.scss */
 h1, h2, h3, h4, h5 {
   font-family: "Poppins", sans-serif;
@@ -1365,7 +1368,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner.png);
+  background-image: url(../img/banner/Concepts-Banner10-1-1030x256.jpg);
 }
 
 /* line 4, ../../Arafath/CL/Cl November/223. Transportation/HTML/scss/_slider.scss */
